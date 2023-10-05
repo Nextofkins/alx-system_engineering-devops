@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+#pings an IP address passed as an argument.
