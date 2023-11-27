@@ -1,0 +1,5 @@
+line 1
+server_name_;
+
+	rewrite ^/redirect_me$ https://ansi.org permanent;
+last line
